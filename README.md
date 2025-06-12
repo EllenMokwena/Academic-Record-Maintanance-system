@@ -32,4 +32,4 @@ This is a Java-based console application that manages student academic records e
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ellenmokwena/academic-record-system.git
+   git clone https://github.com/EllenMokwena/academic-record-system.git
